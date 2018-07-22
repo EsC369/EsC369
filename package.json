@@ -1,0 +1,50 @@
+{
+  "title": "Ryan Smith's Porfolio Website",
+  "name": "portfolio",
+  "version": "4.1.1",
+  "description": "Ryan Smith's Porfolio Website",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "css",
+    "sass",
+    "html",
+    "responsive",
+    "theme",
+    "template"
+  ],
+  "homepage": "https://RyanKenSmith.com",
+  "bugs": {
+    "url": "https://github.com/EsC369",
+    "email": "rksmith369@gmail.com"
+  },
+  "license": "MIT",
+  "author": "Start Bootstrap",
+  "contributors": [
+    "David Miller (http://davidmiller.io/)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EsC369/PortfolioWebsite.git"
+  },
+  "dependencies": {
+    "bootstrap": "4.1.1",
+    "express": "^4.16.3",
+    "font-awesome": "4.7.0",
+    "jquery": "3.3.1",
+    "jquery.easing": "^1.4.1",
+    "magnific-popup": "^1.1.0",
+    "nodemon": "^1.17.5",
+    "scrollreveal": "3.4.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "gulp": "^4.0.0",
+    "gulp-clean-css": "3.9.4",
+    "gulp-header": "2.0.5",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "4.0.1",
+    "gulp-uglify": "3.0.0"
+  }
+}

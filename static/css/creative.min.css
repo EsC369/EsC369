@@ -14,6 +14,7 @@ hr {
 hr.light {
   border-color: #fff;
 }
+
 a {
   color: #f05f40;
   -webkit-transition: all 0.2s;
@@ -31,6 +32,17 @@ h5,
 h6 {
   font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
 }
+.marg {
+  margin: 10px;
+  margin: auto;
+  width: 50%;
+  border: 3px solid white;
+  padding: 10px;
+}
+.bold {
+  font-weight: bold;
+}
+
 .bg-primary {
   background-color: #f05f40 !important;
 }
